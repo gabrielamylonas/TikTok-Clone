@@ -14,7 +14,7 @@
 
 ### What does it?
 - Single page that simulates tiktok mobile version
-- css animations that emulate those in the software
+- css animations that emulate those in the app
 - Ddatabase, storage of videos and hosting by Firebase
 
 ## :computer: Deploy
